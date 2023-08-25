@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Prathamesh2226
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning mtech in Data acience and Data analytivsMmm
+- 🌱 I’m currently learning mtech in Data acience and Data analytics
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
